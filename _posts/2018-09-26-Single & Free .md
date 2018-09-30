@@ -4,7 +4,7 @@ title:      Single & Free
 subtitle:    "\"Bye EX, Hello World\""
 date:       2018-09-26
 author:     Scarlett XH
-header-img: img/post-bg-2015.jpg
+header-img: img/post-01-head.jpg
 catalog: true
 tags:
     - 生活
@@ -15,26 +15,26 @@ tags:
 
 ## 前言
 
-从来没想过要有自己的BLOG
+>从来没想过要有自己的BLOG
 
-直到看到EX的博客里面有了第一篇文章
+>直到EX的博客里面有了第一篇文章
 
 <p id = "build"></p>
 ---
 
 ## 正文
 
-对于前任 直到现在也很崇拜
+对于前任 
 
-他是理科生
+一直是崇拜的存在
 
 从他那里第一次听说了Latex GitHub
 
-在他那能发现很多要学习的东西
+在他那 发现很多要学习的东西
 
 可能还是年轻 接触的新鲜事物多
 
-但爱情不能靠新鲜维持
+但爱情不能仅靠新鲜维持
 
 最终这段姐弟恋还是夭折了
 
@@ -49,12 +49,13 @@ tags:
 似乎是天命 就分手了
 
 
-失恋之后
+
+
+失恋之后 
 
 一开始是抓狂的
 
 后来就是清醒的
-
 
 清醒到去学习那些 自己羡慕的 他会的东西
 
