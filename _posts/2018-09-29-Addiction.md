@@ -8,7 +8,7 @@ header-img: img/post-02-head.jpg
 catalog: true
 tags:
     - Biology
-    - Psychological
+    - Psychology
 ---
 
 ## What can be called addiction?
